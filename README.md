@@ -80,17 +80,11 @@ For additional documentation, including technical specifications and code sample
 
 ### IBM AI service(s) used
 
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding):
-  - **Where Used**: IBM Natural Language Understanding is utilized in our solution for analyzing text-based information provided by farmers. It is used to extract insights about crop health, pest infestations, and nutrient deficiencies from text descriptions and images.
-  - **How Used**: When farmers interact with the AI assistant and provide textual or image-based descriptions of their crops, Natural Language Understanding is applied to extract and analyze the content for signs of crop-related issues. This allows the assistant to offer targeted advice and recommendations to the farmers based on the analyzed data.
+
 
 - [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant):
   - **Where Used**: Watson Assistant is a core component of our solution, serving as the interactive interface for farmers.
   - **How Used**: Farmers communicate with the AI assistant through Watson Assistant. They can ask questions about farming practices, inquire about weather conditions, provide images of their crops, or request information about nearby storage facilities. Watson Assistant handles these interactions, processes user queries, and responds with relevant guidance and information, thereby acting as the virtual farming assistant.
-
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery):
-  - **Where Used**: Watson Discovery is integrated into our solution to provide enhanced information retrieval and content discovery capabilities.
-  - **How Used**: In our solution, Watson Discovery is applied to analyze a vast amount of textual data, such as articles and documents related to agriculture and farming practices. This data is used to enrich the knowledge base of the AI assistant. When farmers ask specific questions or seek detailed information, Watson Discovery helps retrieve accurate and relevant content to assist the farmers effectively.
 
 ### Other IBM technology used
 
