@@ -90,11 +90,11 @@ For additional documentation, including technical specifications and code sample
 
 - No other IBM technology components were used in our solution. Our solution primarily relies on IBM Watson services, such as IBM Watson Assistant, IBM Natural Language Understanding, and IBM Watson Discovery, to provide comprehensive assistance to farmers.
 
-### Solution architecture
+### Solution Architecture
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Solution Architecture](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Solution Architecture](https://drive.google.com/file/d/1eUABIfc3sqszNxtebiO6Qrgo7m0gM8ha/view?usp=share_link)
 
 The architecture of our solution is designed to address the pressing issue of food security by empowering farmers with a comprehensive and user-friendly assistant for sustainable agriculture. Here's a step-by-step description of the flow of our solution:
 
